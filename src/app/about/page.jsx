@@ -9,7 +9,7 @@ const AboutPage = () => {
       <p>
         I&apos;m Ezekiel, the mind behind this webapp dedicated to all things web development and data analysis. With a passion for technology that burns brighter than the Lagos sun, I&apos;ve spent years honing my skills as a software engineer and data analyst.</p>
 
-        <p><b>Tech Enthusiast:</b> I breathe JavaScript, TypeScript, and Node.js. From crafting seamless user interfaces with React to diving into the data world with SQL and MongoDB, I've done it all. My toolkit includes everything from Express.js for robust backends to Next.js for server-side rendering.</p>
+        <p><b>Tech Enthusiast:</b> I breathe JavaScript, TypeScript, and Node.js. From crafting seamless user interfaces with React to diving into the data world with SQL and MongoDB, I&apos;ve done it all. My toolkit includes everything from Express.js for robust backends to Next.js for server-side rendering.</p>
 
         <p><b>Full Stack Dev & More:</b> I&apos;m not just about coding; I&apos;m about creating. As a full stack developer, I believe in building end-to-end solutions. But that&apos;s not all. I&apos;m a PHP enthusiast, a CSS magician, and a fan of Tailwind CSS for crafting sleek and responsive designs.</p>
 

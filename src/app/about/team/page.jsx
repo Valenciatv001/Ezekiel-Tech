@@ -33,7 +33,7 @@ const TeamPage = () => {
    - Proficient in Figma, Adobe XD, Sketch, Wire-Frame, Photoshop.
     </ol>
 
-      <h5>We're not just a team; we&apos;re a tech family. Each member brings their unique expertise to the table, creating a synergy that fuels innovation. Together, we&apos;re on a mission to make the complex world of web development and data analysis accessible to all. Join us on this exciting journey of learning and growth.</h5>
+      <h5>We&apos;re not just a team; we&apos;re a tech family. Each member brings their unique expertise to the table, creating a synergy that fuels innovation. Together, we&apos;re on a mission to make the complex world of web development and data analysis accessible to all. Join us on this exciting journey of learning and growth.</h5>
 
     </div>
   );
